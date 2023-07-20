@@ -2,12 +2,12 @@
 @font-face {
   font-family: "SuisseIntl";
   font-weight: 400;
-  src: url(./assets/SuisseIntl-Regular-HW4ZWWRT.woff2);
+  src: url(/assets/SuisseIntl-Regular-HW4ZWWRT.woff2);
 }
 @font-face {
   font-family: "SuisseIntl";
   font-weight: 500;
-  src: url(./assets/SuisseIntl-Medium-ER6Q7K6V.woff2);
+  src: url(/assets/SuisseIntl-Medium-ER6Q7K6V.woff2);
 }
 *,
 ::before,
